@@ -28,9 +28,6 @@ jobs:
         python -m pip install notebook
     - name: Build the extension
       run: |
-        jlpm
-        jlpm run eslint:check
-
         jupyter labextension install .
 
         python -m jupyterlab.browser_check
