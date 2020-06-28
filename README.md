@@ -1,6 +1,6 @@
 # ruler
 
-![Github Actions Status](https://github.com/my_name/myextension/workflows/Build/badge.svg)
+![Github Actions Status](https://github.com/ricwillis98/ruler/workflows/Build/badge.svg)
 
 An 80 character ruler for jupyterlab
 
