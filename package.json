@@ -1,5 +1,5 @@
 {
-  "name": "ruler",
+  "name": "@ricwillis98/ruler",
   "version": "0.1.0",
   "description": "An 80 character ruler for jupyterlab",
   "keywords": [
@@ -7,9 +7,9 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/my_name/myextension",
+  "homepage": "https://github.com/ricwillis98/ruler",
   "bugs": {
-    "url": "https://github.com/my_name/myextension/issues"
+    "url": "https://github.com/ricwillis98/ruler/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Alex Willis",
@@ -22,7 +22,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/my_name/myextension.git"
+    "url": "https://github.com/ricwillis98/ruler.git"
   },
   "scripts": {
     "build": "tsc",
