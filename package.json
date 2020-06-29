@@ -1,6 +1,6 @@
 {
   "name": "@ricwillis98/ruler",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An 80 character ruler for jupyterlab",
   "keywords": [
     "jupyter",
@@ -37,6 +37,7 @@
     "@jupyterlab/apputils": "^2.1.1",
     "@jupyterlab/notebook": "^2.0.0",
     "@lumino/widgets": "^1.13.2",
+    "np": "^6.2.5",
     "ruler": "^1.0.0"
   },
   "devDependencies": {
@@ -54,8 +55,5 @@
   ],
   "jupyterlab": {
     "extension": true
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
